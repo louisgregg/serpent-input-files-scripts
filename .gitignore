@@ -1,0 +1,7 @@
+# ignore everything 
+*
+#except these things
+!*.py
+!.gitignore
+!/templates/**
+!README.md
